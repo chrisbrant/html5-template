@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+  Title: Name
+  Site:
+  Twitter:
+  Location:
+
+/* THANKS */
+  Name:
+
+/* SITE */
+  Last update:
+  Standards:
+  Components:
+  Software:
